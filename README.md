@@ -4,14 +4,15 @@ The objective of this study is to develop and evaluate a binary classification m
 The [Data](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/Data) folder contains a notebook:
 
 * [CreateTestTrainSets.ipynb](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/Data/CreateTestTrainSets.ipynb) notebook combines all translated sentences of the Manifesto corpus and creates Test and Train sets(but during balance experiments the actual train dataset is created).
-
-
+* Manifesto test dataset
+* 10-K file test dataset (2 files need to be combined into one)
+* ! Data for contructing the train dataset was too heavy, therefore uploaded only to the Google Drive
 
 
 The [ErrorAnalysis](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/ErrorAnalysis) folder contains these files:
 
 * [ErrorAnalysis.ipynb](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/ErrorAnalysis.ipynb) notebook describes the error analysis of the models trained on Manifesto corpus.
-* 
+
 * Six text files with predictions used in the the error analysis notebook.
 
 
