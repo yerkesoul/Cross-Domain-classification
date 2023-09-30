@@ -1,2 +1,1 @@
-# Cross-Domain-classification
-Cross-Domain classification for political data of Manifesto Project Dataset. Environmental protection category classification
+# Environmental agenda detection: a text classification model employing political data from the Manifesto Corpus
