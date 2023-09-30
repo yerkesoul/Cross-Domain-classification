@@ -7,9 +7,10 @@ The [Data](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main
 
 
 
+
 The [ErrorAnalysis](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/ErrorAnalysis) folder contains these files:
 
-1.[ErrorAnalysis.ipynb](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/ErrorAnalysis.ipynb) notebook .
+1.[ErrorAnalysis.ipynb](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/ErrorAnalysis.ipynb) notebook describes the error analysis of the models trained on Manifesto corpus.
 
 2. Six text files with predictions used in the the error analysis notebook.
 
