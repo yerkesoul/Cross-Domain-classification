@@ -30,3 +30,6 @@ The [Second Step](https://github.com/yerkesoul/Environmental-agenda-detection/tr
 
 
 The [Third and forth steps](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/Third%20and%20forth%20steps) folder contains these files:
+
+
+Lastly,there is a [Plots.ipynb](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/CorpusPlots.ipynb) which shows 
