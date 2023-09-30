@@ -4,3 +4,12 @@ The objective of this study is to develop and evaluate a binary classification m
 The [Data](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/Data) folder contains a notebook:
 
 1.[CreateTestTrainSets.ipynb](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/Data/CreateTestTrainSets.ipynb) notebook .
+
+The [ErrorAnalysis](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/ErrorAnalysis) folder contains these files:
+
+1.[ErrorAnalysis.ipynb](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/ErrorAnalysis.ipynb) notebook .
+2.[Test_10ks_train_mainfesto.txt](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/Test_10ks_train_mainfesto.txt)  text file
+3.[Test_manifesto_train_10ks_right.txt](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/Test_manifesto_train_10ks_right.txt)  text file
+4.[Test_manifesto_train_Claims_right.txt](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/)  text file
+5.[Tested_claims_trained_manifesto.txt](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/)  text file
+6.[baseline_predictions.txt](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/) text file
