@@ -1,1 +1,2 @@
 # Environmental agenda detection: a text classification model employing political data from the Manifesto Corpus
+The objective of this study is to develop and evaluate a binary classification model for assessing if a statement is relevant to environmental protection. It investigates several strategies for balancing classes and raising effectiveness. To find possible areas for development and to make sure the model works across other sectors, its applicability is evaluated, with a focus on financial datasets.
