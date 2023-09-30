@@ -20,3 +20,13 @@ The [ErrorAnalysis](https://github.com/yerkesoul/Environmental-agenda-detection/
 5.[Tested_claims_trained_manifesto.txt](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/)  text file
 
 6.[baseline_predictions.txt](https://github.com/yerkesoul/Environmental-agenda-detection/blob/main/ErrorAnalysis/) text file
+
+
+
+The [First Step](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/First%20Step) folder contains these files:
+
+
+The [Second Step](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/Second%20Step) folder contains these files:
+
+
+The [Third and forth steps](https://github.com/yerkesoul/Environmental-agenda-detection/tree/main/Third%20and%20forth%20steps) folder contains these files:
